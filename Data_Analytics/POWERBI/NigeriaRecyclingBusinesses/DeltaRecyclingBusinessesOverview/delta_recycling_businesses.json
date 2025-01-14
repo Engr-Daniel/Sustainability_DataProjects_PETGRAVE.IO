@@ -1,0 +1,487 @@
+[
+    {
+        "name": "DON PASCAL'S ALUMINUM CONSTRUCTION COMPANY",
+        "address": "Mariere St, Boji Boji, Agbor 321103, Delta, Nigeria",
+        "coordinates": {
+            "lat": 6.260560799999999,
+            "lng": 6.1993702
+        },
+        "place_id": "ChIJxzwHrC5PQRAR_Pfy88fOYS4",
+        "materials": [
+            "metal"
+        ],
+        "website_materials": {},
+        "phone": "0703 160 2647",
+        "website": null,
+        "rating": 4,
+        "opening_hours": [
+            "Monday: 7:30 AM – 5:45 AM",
+            "Tuesday: 7:30 AM – 5:45 AM",
+            "Wednesday: 7:30 AM – 5:45 AM",
+            "Thursday: 7:00 AM – 5:45 AM",
+            "Friday: 7:30 AM – 5:45 AM",
+            "Saturday: 10:45 AM – 5:45 AM",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "Mariere Street",
+            "sublocality_level_1": "Boji Boji",
+            "locality": "Agbor",
+            "administrative_area_level_3": "Boji-Boji II",
+            "administrative_area_level_2": "Ika South",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "321103"
+        }
+    },
+    {
+        "name": "Olu Tee Engineering International Limited Waste Management Facility",
+        "address": "Old Udjevwu Road, After Fil-Raphil Hotel, Back Of Utuama (Former Delta State Deputy Governor's House), Ovwian, FRC6+M8R, Warri 330103, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.471739599999999,
+            "lng": 5.8107641
+        },
+        "place_id": "ChIJXV02uCGzQRAR7FQp_uLGVws",
+        "materials": [
+            "hazardous",
+            "metal",
+            "plastic",
+            "general"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP"
+            ],
+            "metal": [
+                "iron"
+            ],
+            "hazardous": [
+                "oil"
+            ]
+        },
+        "phone": "0802 621 1907",
+        "website": "http://www.olutee-ng.com/",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:00 AM",
+            "Tuesday: 8:00 AM – 5:00 AM",
+            "Wednesday: 8:00 AM – 5:00 AM",
+            "Thursday: 8:00 AM – 5:00 AM",
+            "Friday: 8:00 AM – 5:00 AM",
+            "Saturday: 8:00 AM – 5:00 AM",
+            "Sunday: 10:00 AM – 4:00 AM"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "plus_code": "FRC6+M8R",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ovwian II",
+            "administrative_area_level_2": "Udu",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330103"
+        }
+    },
+    {
+        "name": "Olu Tee Engineering Int'l Limited Operational Office",
+        "address": "1 Sokoto Crescent, Dsc Township, Ekete, Warri 330103, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5052822,
+            "lng": 5.826408799999999
+        },
+        "place_id": "ChIJS6CU9EmtQRARUoCjl3Ml2F4",
+        "materials": [
+            "hazardous",
+            "metal",
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP"
+            ],
+            "metal": [
+                "iron"
+            ],
+            "hazardous": [
+                "oil"
+            ]
+        },
+        "phone": "0805 369 2893",
+        "website": "http://www.olutee-ng.com/",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:00 PM",
+            "Tuesday: 8:00 AM – 5:00 PM",
+            "Wednesday: 8:00 AM – 5:00 PM",
+            "Thursday: 8:30 AM – 5:00 PM",
+            "Friday: 8:00 AM – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "locality": "Warri",
+            "neighborhood": "Ekete",
+            "administrative_area_level_3": "Orhuwerun",
+            "administrative_area_level_2": "Udu",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330103"
+        }
+    },
+    {
+        "name": "UCOF ENVIRONTECH SERVICES LIMITED",
+        "address": "87 Airport Road Ugboroke Junction, Effurun, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.541735999999999,
+            "lng": 5.7663024
+        },
+        "place_id": "ChIJK3C_JjKtQRARAKy9rRr_TA0",
+        "materials": [
+            "metal",
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP",
+                "PS"
+            ],
+            "metal": [
+                "iron"
+            ]
+        },
+        "phone": "0803 241 6851",
+        "website": "http://www.ucofenvirontech.com/",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:00 PM",
+            "Tuesday: 8:00 AM – 5:00 PM",
+            "Wednesday: 8:00 AM – 5:00 PM",
+            "Thursday: 8:00 AM – 5:00 PM",
+            "Friday: 8:00 AM – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "neighborhood": "Warri",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ugborikoko",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Lajufav Nigeria Limited",
+        "address": "Thomas House, Km 4 Refinery Rd, Effurun, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5694744,
+            "lng": 5.7474677
+        },
+        "place_id": "ChIJrdksLGytQRARXnuYCpphzhA",
+        "materials": [
+            "metal",
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PS"
+            ],
+            "metal": [
+                "metal",
+                "aluminum",
+                "iron"
+            ]
+        },
+        "phone": "0813 882 2680",
+        "website": "https://www.lajufav.com/",
+        "rating": 5,
+        "opening_hours": [],
+        "service_keywords": [],
+        "address_components": {
+            "premise": "Thomas House",
+            "street_number": "Km 4",
+            "route": "Refinery Road",
+            "neighborhood": "Tori",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ekpan I",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Merb Resources Intl Ltd",
+        "address": "Plot 670 DDPA Estate Westend, Hospital Rd, Warri, 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5448168,
+            "lng": 5.760873
+        },
+        "place_id": "ChIJk4goGXWtQRARQJ-h42aQbdU",
+        "materials": [
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP",
+                "PS"
+            ]
+        },
+        "phone": "0806 072 5397",
+        "website": "http://www.merbresources.com/",
+        "rating": 4.7,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:30 PM",
+            "Tuesday: 8:00 AM – 5:30 PM",
+            "Wednesday: 8:00 AM – 5:30 PM",
+            "Thursday: 8:00 AM – 5:30 PM",
+            "Friday: 8:00 AM – 5:30 PM",
+            "Saturday: 10:00 AM – 3:00 PM",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "Hospital Road",
+            "neighborhood": "Warri",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ugborikoko",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Winner Beauty Clothing Store",
+        "address": "Uti street, off P. T. I. Road, Effurun, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5561009,
+            "lng": 5.7846527
+        },
+        "place_id": "ChIJnw0lkT-tQRAR2W5qR7O-Gkw",
+        "materials": [
+            "textile"
+        ],
+        "website_materials": {},
+        "phone": "0816 329 5418",
+        "website": "https://www.facebook.com/Winner-beauty-collections-100554505762092",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "Uti street",
+            "neighborhood": "Tori",
+            "locality": "Warri",
+            "administrative_area_level_3": "Effurun I",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Verliz_clothing",
+        "address": "149,Jakpa road,Effurun, local, government area, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5640636,
+            "lng": 5.754671600000001
+        },
+        "place_id": "ChIJl_4qWQ6tQRARQjKrFLfuRgg",
+        "materials": [
+            "textile"
+        ],
+        "website_materials": {},
+        "phone": "0705 731 3098",
+        "website": null,
+        "rating": 5,
+        "opening_hours": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 AM – 5:00 PM",
+            "Thursday: 8:00 AM – 6:30 PM",
+            "Friday: 8:00 AM – 12:00 AM",
+            "Saturday: 12:00 – 6:30 AM, 9:00 AM – 4:30 PM",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "local",
+            "neighborhood": "Tori",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ekpan II",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "UCOF ENVIRONTECH SERVICES LIMITED",
+        "address": "87 Airport Road Ugboroke Junction, Effurun, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.541735999999999,
+            "lng": 5.7663024
+        },
+        "place_id": "ChIJK3C_JjKtQRARAKy9rRr_TA0",
+        "materials": [
+            "metal",
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP",
+                "PS"
+            ],
+            "metal": [
+                "iron"
+            ]
+        },
+        "phone": "0803 241 6851",
+        "website": "http://www.ucofenvirontech.com/",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:00 PM",
+            "Tuesday: 8:00 AM – 5:00 PM",
+            "Wednesday: 8:00 AM – 5:00 PM",
+            "Thursday: 8:00 AM – 5:00 PM",
+            "Friday: 8:00 AM – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "neighborhood": "Warri",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ugborikoko",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Merb Resources Intl Ltd",
+        "address": "Plot 670 DDPA Estate Westend, Hospital Rd, Warri, 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5448168,
+            "lng": 5.760873
+        },
+        "place_id": "ChIJk4goGXWtQRARQJ-h42aQbdU",
+        "materials": [
+            "plastic"
+        ],
+        "website_materials": {
+            "plastic": [
+                "PP",
+                "PS"
+            ]
+        },
+        "phone": "0806 072 5397",
+        "website": "http://www.merbresources.com/",
+        "rating": 4.7,
+        "opening_hours": [
+            "Monday: 8:00 AM – 5:30 PM",
+            "Tuesday: 8:00 AM – 5:30 PM",
+            "Wednesday: 8:00 AM – 5:30 PM",
+            "Thursday: 8:00 AM – 5:30 PM",
+            "Friday: 8:00 AM – 5:30 PM",
+            "Saturday: 10:00 AM – 3:00 PM",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "Hospital Road",
+            "neighborhood": "Warri",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ugborikoko",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Winner Beauty Clothing Store",
+        "address": "Uti street, off P. T. I. Road, Effurun, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5561009,
+            "lng": 5.7846527
+        },
+        "place_id": "ChIJnw0lkT-tQRAR2W5qR7O-Gkw",
+        "materials": [
+            "textile"
+        ],
+        "website_materials": {},
+        "phone": "0816 329 5418",
+        "website": "https://www.facebook.com/Winner-beauty-collections-100554505762092",
+        "rating": 0,
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "Uti street",
+            "neighborhood": "Tori",
+            "locality": "Warri",
+            "administrative_area_level_3": "Effurun I",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    },
+    {
+        "name": "Verliz_clothing",
+        "address": "149,Jakpa road,Effurun, local, government area, Warri 330102, Delta, Nigeria",
+        "coordinates": {
+            "lat": 5.5640636,
+            "lng": 5.754671600000001
+        },
+        "place_id": "ChIJl_4qWQ6tQRARQjKrFLfuRgg",
+        "materials": [
+            "textile"
+        ],
+        "website_materials": {},
+        "phone": "0705 731 3098",
+        "website": null,
+        "rating": 5,
+        "opening_hours": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 AM – 5:00 PM",
+            "Thursday: 8:00 AM – 6:30 PM",
+            "Friday: 8:00 AM – 12:00 AM",
+            "Saturday: 12:00 – 6:30 AM, 9:00 AM – 4:30 PM",
+            "Sunday: Closed"
+        ],
+        "service_keywords": [],
+        "address_components": {
+            "route": "local",
+            "neighborhood": "Tori",
+            "locality": "Warri",
+            "administrative_area_level_3": "Ekpan II",
+            "administrative_area_level_2": "Uvwie",
+            "administrative_area_level_1": "Delta",
+            "country": "Nigeria",
+            "postal_code": "330102"
+        }
+    }
+]

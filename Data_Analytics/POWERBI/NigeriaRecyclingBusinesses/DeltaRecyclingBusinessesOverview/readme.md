@@ -1,96 +1,11 @@
-# Recycling Business Locator and Data Analysis
+# Recycling Businesses Across Delta State Report
 
-## Overview
-This project aims to identify and analyze recycling businesses in specified locations, with a focus on their geographic distribution, materials handled, and operational details. It leverages Google Maps API for location data and web scraping to extract additional information, providing structured insights to enhance recycling efforts.
+The recycling industry in Delta State is vital for sustainable waste management and environmental conservation. This report explores the distribution and focus of recycling businesses across the state, with a focus on their operations, material types handled, and opportunities for improvement.
 
----
-
-## Features
-
-### Business Search
-- Locate recycling businesses in a specified location.
-
-### Data Collection
-- Gather detailed business information:
-  - **Name and Address**
-  - **Geographic Coordinates**
-  - **Contact Details** (Phone, Website)
-  - **Operating Hours**
-  - **Google Ratings**
-  - **Materials Handled** and Recycling Capabilities
-  - **Detailed Address Components**
-
-### Website Analysis
-- Analyze business websites to extract additional information on recycling materials and services.
-
-### Data Export
-- Export all collected data to a structured JSON format for easy analysis and visualization.
-
-### Data Visualization
-- Visualize data using tools like Power BI or Python libraries to:
-  - Map the geographic distribution of businesses.
-  - Analyze material focus and operational gaps.
-
----
-
-## Prerequisites
-
-### System Requirements
-- **Python**: Version 3.x
-- **Virtual Environment**: Recommended for managing dependencies
-
-### Required Python Packages
-Install the following packages using `pip install`:
-- `beautifulsoup4`
-- `googlemaps`
-- `requests`
-- `pyodbc`
-- `unixodbc`
-
-### API Key
-- Obtain a Google Maps API key from the [Google Cloud Console](https://console.cloud.google.com/).
-
----
-
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-
-2. **Set Up Virtual Environment**
-   ```bash
-   python3 -m venv env
-   source env/bin/activate   # On Windows: env\Scripts\activate
-   ```
-
-3. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure API Key**
-   - Add your Google Maps API key to the `.env` file or directly in the script.
-
----
-
-## Usage
-
-1. **Run the Business Locator**
-   ```bash
-   python main.py
-   ```
-
-2. **Input Location**
-   - Specify the location to search for recycling businesses.
-
-3. **Export Data**
-   - Collected data is automatically exported to `output/recycling_data.json`.
-
-4. **Visualize Data**
-   - Import the JSON data into visualization tools like Power BI or Python libraries (e.g., Plotly).
+## Objectives
+1. To identify the geographic distribution of recycling businesses in Delta State.
+2. To analyze the types of materials recycled.
+3. To provide actionable recommendations to improve the recycling sector.
 
 ---
 
@@ -105,7 +20,7 @@ Install the following packages using `pip install`:
 - Format the data into a clean JSON structure.
 
 ### Data Visualization
-- Use Power BI or Python to:
+- Use Power BI to:
   - Create maps, bar charts, and pie charts.
   - Highlight underserved areas and materials.
 

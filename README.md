@@ -16,8 +16,7 @@ This repository serves as a collection of the following:
 ---
 
 ## 📂 **Folder Structure**  
-Sustainability_DataProjects_PETGRAVE.IO/ │ ├── Digital_Products/ │ ├── Sustainability-Dashboard/ │ ├── Data_Analytics/ │ ├── Waste-Management-Insights.ipynb │ ├── Sustainability-Metrics.csv │ └── Visualizations/ │ ├── Research_Reports/ │ ├── Recycling-Feasibility-Study.pdf │ ├── Waste-Generation-Trends.pdf │ └── Sustainability-Case-Studies.pdf │ ├── Workshops/webinar_and_Documentation/ │ └── Technical-Writing-Samples/ │ └── README.md
-
+Sustainability_DataProjects_PETGRAVE.IO/ │ ├── Data_Analytics/ │ ├── Digital_Products/ │ ├── Research_Reports_and_Blogs/ │ Workshops/webinar_and_Documentation/ │ └── README.md
 
 ---
 

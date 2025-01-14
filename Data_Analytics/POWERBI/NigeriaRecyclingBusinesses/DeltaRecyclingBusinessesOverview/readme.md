@@ -1,4 +1,4 @@
-# Recycling Businesses Across Delta State Report
+# Recycling Businesses Across Delta
 
 The recycling industry in Delta State is vital for sustainable waste management and environmental conservation. This report explores the distribution and focus of recycling businesses across the state, with a focus on their operations, material types handled, and opportunities for improvement.
 

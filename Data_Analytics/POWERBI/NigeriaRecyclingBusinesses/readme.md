@@ -1,6 +1,5 @@
 # Recycling Business Locator and Data Analysis
 
-## Overview
 This project aims to identify and analyze recycling businesses in specified locations, with a focus on their geographic distribution, materials handled, and operational details. It leverages Google Maps API for location data and web scraping to extract additional information, providing structured insights to enhance recycling efforts.
 
 ---
